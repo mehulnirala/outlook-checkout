@@ -1,0 +1,561 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Container",
+      "id": "34eadec9-ac74-5c77-3e62-875a8b9c5f3c",
+      "padding": "Small",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "id": "fedae9ca-c2d5-5dd2-4a59-176681872822",
+          "columns": [
+            {
+              "type": "Column",
+              "id": "e6d9a897-f9e4-067b-52da-c9900c83e886",
+              "padding": "None",
+              "width": "auto",
+              "items": [
+                {
+                  "type": "Image",
+                  "id": "0f1bd522-ef75-3f9f-14c4-4ef9e234721f",
+                  "url": "https://pngimg.com/uploads/pegasus/pegasus_PNG13.png",
+                  "size": "Small",
+                  "altText": "Contoso Group Avatar",
+                  "style": "Person"
+                }
+              ]
+            },
+            {
+              "type": "Column",
+              "id": "b48b0ab2-4c13-5b59-88eb-2fc97c943d39",
+              "padding": "None",
+              "width": "stretch",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "2d13ea41-2866-7130-44de-4a18d3093cf7",
+                  "text": "Pegasus",
+                  "wrap": true,
+                  "size": "Medium",
+                  "weight": "Bolder"
+                },
+                {
+                  "type": "ColumnSet",
+                  "id": "e30a8217-5547-2a49-0672-b56509a5c3a0",
+                  "columns": [
+                    {
+                      "type": "Column",
+                      "id": "be9f1bc4-87c3-2c75-81ce-72a5247175db",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "4904fa99-a6ef-e3ed-e044-c4b7fc308554",
+                          "text": "**runner** ",
+                          "wrap": true,
+                          "color": "Light",
+                          "size": "Small"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "Column",
+                      "id": "e5a34448-6588-ded4-8e9e-363d4b76ac4a",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "bd2dcac1-d915-bff4-bf62-15c586900d08",
+                          "text": "station",
+                          "wrap": true,
+                          "weight": "Lighter",
+                          "color": "Light",
+                          "size": "Small",
+                          "spacing": "None"
+                        }
+                      ],
+                      "horizontalAlignment": "Left",
+                      "spacing": "None"
+                    }
+                  ],
+                  "padding": "None",
+                  "spacing": "None"
+                }
+              ],
+              "verticalContentAlignment": "Center"
+            }
+          ],
+          "padding": "None"
+        }
+      ],
+      "spacing": "None",
+      "style": "emphasis"
+    },
+    {
+      "type": "Container",
+      "id": "0bdaded9-7b2d-fb8b-c298-ac819fd31288",
+      "padding": "Default",
+      "spacing": "None",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "aa3700e5-ce11-c0ee-90df-ad8a6f6153c2",
+                  "text": "🔥The 60% OFF Store🔥",
+                  "wrap": true,
+                  "size": "Large",
+                  "weight": "Bolder"
+                }
+              ],
+              "padding": "None",
+              "width": "auto"
+            },
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "10a5146e-a992-d7a1-48a4-19a4d60bace0",
+                  "text": "  Only for the weekend",
+                  "wrap": true,
+                  "size": "Large",
+                  "weight": "Lighter"
+                }
+              ],
+              "padding": "None",
+              "width": "auto",
+              "spacing": "Small"
+            }
+          ],
+          "padding": "None",
+          "spacing": "Small"
+        }
+      ],
+      "separator": true
+    },
+    {
+      "type": "Container",
+      "id": "47295af6-a6b8-fd4f-f90f-018d01f8e130",
+      "padding": "Default",
+      "spacing": "None",
+      "items": [
+        {
+          "type": "TextBlock",
+          "id": "3f5e8bb4-217c-ab02-0c24-097aa57151eb",
+          "text": "Add items to card to try our new checkout experience in Outlook",
+          "wrap": true,
+          "spacing": "None",
+          "size": "Small"
+        },
+        {
+          "type": "ColumnSet",
+          "id": "a1e100d4-32eb-23a2-1efe-ee427dabbc61",
+          "columns": [
+            {
+              "type": "Column",
+              "id": "5be4e78f-0516-88b9-3c8a-aaa4a363c891",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "Image",
+                  "id": "dbb6d6c-92de-3847-c52c-19b50a2b1e35",
+                  "url": "https://github.com/TheAlphamerc/flutter_ecommerce_app/raw/master/assets/small_tilt_shoe_1.png",
+                  "spacing": "None",
+                  "size": "Stretch",
+                  "altText": "Miguel Garcia Avatar",
+                  "width": "100px",
+                  "height": "100px"
+                }
+              ]
+            },
+            {
+              "type": "Column",
+              "id": "bc3069ca-e365-0acb-825a-d0088fde0017",
+              "padding": "None",
+              "width": "stretch",
+              "spacing": "Small",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "6a77917-41b7-7959-2d35-bb5f1bfc1a97",
+                  "text": "NIKE W AIR MAX 200",
+                  "wrap": true,
+                  "size": "Medium",
+                  "weight": "Bolder",
+                  "color": "Good"
+                },
+                {
+                  "type": "ColumnSet",
+                  "id": "032b86cb-55b1-8897-a5ec-4c7e2bde4dbe",
+                  "columns": [
+                    {
+                      "type": "Column",
+                      "id": "32f48a58-8e31-7c42-a9c1-cf63f77f7e9d",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "38552ef-2a05-e130-d308-456843e0e74d",
+                          "text": "🟠 🔵 🟤 🟣 ",
+                          "wrap": true,
+                          "spacing": "Medium",
+                          "size": "Small",
+                          "color": "Light"
+                        }
+                      ],
+                      "spacing": "None"
+                    },
+                    {
+                      "type": "Column",
+                      "id": "0ffaf7d6-b666-7c95-076c-ebff3732e4b5",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "15890f26-9a07-b90a-99ec-dc89f6109a1c",
+                          "text": "Size  **US7**",
+                          "isSubtle": true,
+                          "spacing": "Medium"
+                        }
+                      ],
+                      "horizontalAlignment": "Right"
+                    }
+                  ],
+                  "padding": "None",
+                  "spacing": "None",
+                  "style": "default",
+                  "horizontalAlignment": "Left"
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "9d1870b-42a3-b0d9-85bd-0c1275085158",
+                  "text": "***$ 129.00*** ~~*$ 240.00*~~",
+                  "wrap": true,
+                  "spacing": "None"
+                }
+              ],
+              "verticalContentAlignment": "Center"
+            },
+            {
+              "type": "Column",
+              "id": "e4468a93-664d-8200-9dff-329dce137c49",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "ActionSet",
+                  "id": "d3480d80-1d92-780a-1881-57af7e207699",
+                  "actions": [
+                    {
+                      "type": "Action.Http",
+                      "id": "3bb5a22c-ffed-33d8-c216-a93d47e0630a",
+                      "title": "Add +",
+                      "url": "https://www.microsoft.com",
+                      "method": "POST"
+                    }
+                  ]
+                }
+              ],
+              "horizontalAlignment": "Left",
+              "verticalContentAlignment": "Center"
+            }
+          ],
+          "padding": "None"
+        },
+        {
+          "type": "ColumnSet",
+          "id": "38508b3a-4c76-1b84-8a7b-59d4813a25dc",
+          "columns": [
+            {
+              "type": "Column",
+              "id": "0567971b-8459-cf8e-4dd1-507f5211679f",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "Image",
+                  "id": "000601e7-86c2-ad01-8a93-b0302cfeb022",
+                  "url": "https://github.com/TheAlphamerc/flutter_ecommerce_app/raw/master/assets/small_tilt_shoe_3.png",
+                  "spacing": "None",
+                  "size": "Stretch",
+                  "altText": "Miguel Garcia Avatar",
+                  "width": "100px",
+                  "height": "100px"
+                }
+              ]
+            },
+            {
+              "type": "Column",
+              "id": "393a30af-0150-54e9-329d-336c0a0f50c0",
+              "padding": "None",
+              "width": "stretch",
+              "spacing": "Small",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "ee2c63a2-6c03-470c-5dbd-b633b4ded21f",
+                  "text": "NIKE AIR MAX 97",
+                  "wrap": true,
+                  "size": "Medium",
+                  "color": "Good",
+                  "weight": "Bolder"
+                },
+                {
+                  "type": "ColumnSet",
+                  "id": "c5b50096-84f4-940a-f016-a6d7e2bbb74a",
+                  "columns": [
+                    {
+                      "type": "Column",
+                      "id": "55b11cf6-14aa-bef1-e5d3-512791dc678b",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "9575992e-4007-2491-3980-d9eb1d531d25",
+                          "text": "🟢 🟣 🔵 🟤",
+                          "wrap": true,
+                          "spacing": "Medium",
+                          "size": "Small",
+                          "color": "Light"
+                        }
+                      ],
+                      "spacing": "None"
+                    },
+                    {
+                      "type": "Column",
+                      "id": "5ce76c7e-b135-5a90-0b08-07d67ce5c067",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "0eacbd71-8c0d-c690-0611-63fb1ea8301c",
+                          "text": "Size  **US7**",
+                          "isSubtle": true,
+                          "spacing": "Medium"
+                        }
+                      ],
+                      "horizontalAlignment": "Right"
+                    }
+                  ],
+                  "padding": "None",
+                  "spacing": "None",
+                  "style": "default",
+                  "horizontalAlignment": "Left"
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "adc185f0-5033-295d-a76d-0073cf991dcb",
+                  "text": "***$ 79.00*** ~~*$ 190.00*~~",
+                  "wrap": true,
+                  "spacing": "None"
+                }
+              ],
+              "verticalContentAlignment": "Center"
+            },
+            {
+              "type": "Column",
+              "id": "318e1cf0-eec2-a9f5-e277-585dd80f075c",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "ActionSet",
+                  "id": "f563ec48-3811-398f-d059-c24aa2749baf",
+                  "actions": [
+                    {
+                      "type": "Action.Http",
+                      "id": "ea73254f-f980-0e17-9976-0acfa75a9ab0",
+                      "title": "Add +",
+                      "url": "https://www.microsoft.com",
+                      "method": "POST"
+                    }
+                  ]
+                }
+              ],
+              "horizontalAlignment": "Left",
+              "verticalContentAlignment": "Center"
+            }
+          ],
+          "padding": "None",
+          "spacing": "Small",
+          "separator": true
+        },
+        {
+          "type": "ColumnSet",
+          "id": "6bc48019-5d22-6f13-8ff2-0b8d16f9dcde",
+          "columns": [
+            {
+              "type": "Column",
+              "id": "c07c4f81-a2bf-bcf1-32cf-25b016ffc355",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "Image",
+                  "id": "592bf5be-613f-0a59-37dd-7f081d4b54ce",
+                  "url": "https://github.com/TheAlphamerc/flutter_ecommerce_app/raw/master/assets/small_tilt_shoe_2.png",
+                  "spacing": "None",
+                  "size": "Medium",
+                  "altText": "Miguel Garcia Avatar",
+                  "width": "100px",
+                  "height": "97px"
+                }
+              ]
+            },
+            {
+              "type": "Column",
+              "id": "24048cb3-83e9-8134-7720-461607d6dbd4",
+              "padding": "None",
+              "width": "stretch",
+              "spacing": "Small",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "f5029cfb-183a-e052-206c-721554b2f905",
+                  "text": "NIKE AIR MAX 260",
+                  "wrap": true,
+                  "size": "Medium",
+                  "color": "Good",
+                  "weight": "Bolder"
+                },
+                {
+                  "type": "ColumnSet",
+                  "id": "5c85bae7-622e-80f5-55fb-3997b7da4b4d",
+                  "columns": [
+                    {
+                      "type": "Column",
+                      "id": "77bc332f-5e29-522e-d32a-fcaf6918a291",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "771a44c1-56f1-63c3-012c-27cdd00f0103",
+                          "text": "🟤 🟣 🟠 🔵",
+                          "wrap": true,
+                          "spacing": "Medium",
+                          "size": "Small",
+                          "color": "Light"
+                        }
+                      ],
+                      "spacing": "None"
+                    },
+                    {
+                      "type": "Column",
+                      "id": "18d4aa0c-fa47-1a76-ea0b-0321f43fc4a2",
+                      "padding": "None",
+                      "width": "auto",
+                      "items": [
+                        {
+                          "type": "TextBlock",
+                          "id": "d93d0e32-8c73-3982-1941-c9aecb5f60c0",
+                          "text": "Size  **US7**",
+                          "isSubtle": true,
+                          "spacing": "Medium"
+                        }
+                      ],
+                      "horizontalAlignment": "Right"
+                    }
+                  ],
+                  "padding": "None",
+                  "spacing": "None",
+                  "style": "default",
+                  "horizontalAlignment": "Left"
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "d9ca2d61-b3d4-1893-e237-4e869a151331",
+                  "text": "***$ 99.00*** ~~*$ 220.00*~~",
+                  "wrap": true,
+                  "spacing": "None"
+                }
+              ],
+              "verticalContentAlignment": "Center"
+            },
+            {
+              "type": "Column",
+              "id": "22bfcdbf-1227-42cc-69df-6c1c78c6b2a8",
+              "padding": "None",
+              "width": "auto",
+              "spacing": "None",
+              "items": [
+                {
+                  "type": "ActionSet",
+                  "id": "f74ce317-ac6b-5cb9-988c-b7ceb2ce0945",
+                  "actions": [
+                    {
+                      "type": "Action.Http",
+                      "id": "cf22d458-27f2-ef4a-a615-71bac90df749",
+                      "title": "Add +",
+                      "url": "https://www.microsoft.com",
+                      "method": "POST"
+                    }
+                  ]
+                }
+              ],
+              "horizontalAlignment": "Left",
+              "verticalContentAlignment": "Center"
+            }
+          ],
+          "padding": "None",
+          "spacing": "None",
+          "separator": true
+        },
+        {
+          "type": "ActionSet",
+          "id": "cabbf18e-fa8c-ff66-e2d9-6626bb1b841e",
+          "actions": [
+            {
+              "type": "Action.Http",
+              "id": "7e6a701f-815f-2a67-4af1-a316b59c8e83",
+              "title": "   Checkout 🛒  ",
+              "method": "POST",
+              "url": "https://www.microsoft.com",
+              "body": "{Member1: {{Select1.value}}, Member2: {{Select2.value}},\nMember3: {{Select3.value}}}",
+              "isPrimary": true,
+              "style": "positive"
+            }
+          ],
+          "horizontalAlignment": "Center",
+          "spacing": "Small"
+        },
+        {
+          "type": "TextBlock",
+          "id": "523f8d10-7ed2-70f5-77d0-cae1d998851d",
+          "text": "*Upto 60% off on all products.",
+          "wrap": true,
+          "spacing": "None",
+          "size": "Small",
+          "isSubtle": true,
+          "weight": "Lighter",
+          "color": "Light"
+        }
+      ],
+      "separator": true,
+      "horizontalAlignment": "Left"
+    }
+  ],
+  "padding": "None",
+  "@type": "AdaptiveCard",
+  "@context": "http://schema.org/extensions"
+}
